@@ -1,3 +1,3 @@
 # demo
 
-checking git
+checking git!
